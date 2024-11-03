@@ -1,3 +1,4 @@
+#gauravrokade2002
 import tkinter as tk
 from tkinter import ttk, scrolledtext, filedialog
 import whois
@@ -81,6 +82,7 @@ def display_result(text):
     output_area.insert(tk.INSERT, text)
 
 # Function to save results to a text file
+#gauravrokade2002
 def save_results():
     file = filedialog.asksaveasfile(defaultextension=".txt", filetypes=[("Text files", "*.txt")])
     if file:
@@ -136,3 +138,4 @@ save_button.pack()
 
 # Start the GUI event loop
 window.mainloop()
+#gauravrokade20002
