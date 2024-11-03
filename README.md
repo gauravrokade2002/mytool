@@ -9,12 +9,6 @@ Save Results: Save the output results to a text file.
 Installation
 To run this application, ensure you have Python 3.x installed on your machine. Then, follow these steps:
 
-Clone the repository:
-
-bash
-Copy code
-git clone [Your Repository URL]
-cd network-tool
 Install the required libraries: You may need to install the following libraries using pip:
 
 bash
